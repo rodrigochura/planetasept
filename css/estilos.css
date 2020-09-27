@@ -1,0 +1,17 @@
+body
+{
+    padding:10px;
+    margin:40px;
+    font-size: 24px;
+    font-family: Helvetica;
+    background-image:url(https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/595a41815bafe8a30c3c986f/cosmos.jpg);
+    background-repeat: repeat;
+    color: white;
+}
+
+nav
+{
+    background-color: white;
+    padding: 0px;
+    color:#68b4f2;
+}
